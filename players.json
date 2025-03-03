@@ -12,7 +12,7 @@
             "name": "Lakers",
             "city": "Los Angeles"
         }
-    }
+    },
     {
         "name": "Lionel Messi",
         "sport": "Soccer",
@@ -22,8 +22,8 @@
             "name": "Inter Miami",
             "city": "Miami"
         }
-    }
-  	    {
+    },
+  	{
         "name": "Serena Williams",
         "sport": "Tennis",
         "position": "Player",
@@ -32,7 +32,7 @@
             "name": "N/A",
             "city": "N/A"
         }
-    }
+    },
     {
         "name": "Tom Brady",
         "sport": "Football",
